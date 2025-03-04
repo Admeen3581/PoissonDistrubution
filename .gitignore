@@ -8,8 +8,8 @@
 /dataSources.local.xml
 
 #IDE Files
-.idea
+/.idea
 CSF1.iml
 
 #Production Files
-.out
+/out
